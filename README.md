@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Python intermediate projects
 - 📫 demiurqway@gmail.com
 - 😄 Pronouns: pronouns.get()
-- ⚡ Fun fact: will be added later...
+- ⚡ Fun fact: ToBeImplemented...
 
 <!---
 Demiurq/Demiurq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
